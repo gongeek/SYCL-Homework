@@ -1,0 +1,1 @@
+It is a program about how to red RGB from a image .

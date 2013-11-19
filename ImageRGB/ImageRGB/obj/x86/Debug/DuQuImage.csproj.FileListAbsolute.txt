@@ -1,0 +1,7 @@
+C:\Users\gw\Desktop\Class\20113210龚巍\ImageRGB\ImageRGB\obj\x86\Debug\ImageRGB.exe
+C:\Users\gw\Desktop\Class\20113210龚巍\ImageRGB\ImageRGB\obj\x86\Debug\ImageRGB.pdb
+C:\Users\gw\Desktop\Class\20113210龚巍\ImageRGB\ImageRGB\bin\Debug\ImageRGB.exe
+C:\Users\gw\Desktop\Class\20113210龚巍\ImageRGB\ImageRGB\bin\Debug\ImageRGB.pdb
+C:\Users\gw\Desktop\Class\20113210龚巍\ImageRGB\ImageRGB\obj\x86\Debug\ImageRGB.Form1.resources
+C:\Users\gw\Desktop\Class\20113210龚巍\ImageRGB\ImageRGB\obj\x86\Debug\ImageRGB.Properties.Resources.resources
+C:\Users\gw\Desktop\Class\20113210龚巍\ImageRGB\ImageRGB\obj\x86\Debug\DuQuImage.csproj.GenerateResource.Cache
