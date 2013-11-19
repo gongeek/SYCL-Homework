@@ -1,0 +1,8 @@
+C:\Users\gw\Desktop\FeaturePoint\FeaturePoint\bin\Debug\FeaturePoint.exe
+C:\Users\gw\Desktop\FeaturePoint\FeaturePoint\bin\Debug\FeaturePoint.pdb
+C:\Users\gw\Desktop\FeaturePoint\FeaturePoint\obj\x86\Debug\FeaturePoint.Form1.resources
+C:\Users\gw\Desktop\FeaturePoint\FeaturePoint\obj\x86\Debug\FeaturePoint.Properties.Resources.resources
+C:\Users\gw\Desktop\FeaturePoint\FeaturePoint\obj\x86\Debug\FeaturePoint.csproj.GenerateResource.Cache
+C:\Users\gw\Desktop\FeaturePoint\FeaturePoint\obj\x86\Debug\FeaturePoint.exe
+C:\Users\gw\Desktop\FeaturePoint\FeaturePoint\obj\x86\Debug\FeaturePoint.pdb
+C:\Users\gw\Desktop\FeaturePoint\FeaturePoint\obj\x86\Debug\FeaturePoint.csprojResolveAssemblyReference.cache

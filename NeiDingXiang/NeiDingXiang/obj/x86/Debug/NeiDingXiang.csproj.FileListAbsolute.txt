@@ -1,0 +1,8 @@
+C:\Users\gw\Desktop\NeiDingXiang\NeiDingXiang\bin\Debug\NeiDingXiang.exe
+C:\Users\gw\Desktop\NeiDingXiang\NeiDingXiang\bin\Debug\NeiDingXiang.pdb
+C:\Users\gw\Desktop\NeiDingXiang\NeiDingXiang\obj\x86\Debug\NeiDingXiang.Form1.resources
+C:\Users\gw\Desktop\NeiDingXiang\NeiDingXiang\obj\x86\Debug\NeiDingXiang.Properties.Resources.resources
+C:\Users\gw\Desktop\NeiDingXiang\NeiDingXiang\obj\x86\Debug\NeiDingXiang.csproj.GenerateResource.Cache
+C:\Users\gw\Desktop\NeiDingXiang\NeiDingXiang\obj\x86\Debug\NeiDingXiang.exe
+C:\Users\gw\Desktop\NeiDingXiang\NeiDingXiang\obj\x86\Debug\NeiDingXiang.pdb
+C:\Users\gw\Desktop\NeiDingXiang\NeiDingXiang\obj\x86\Debug\NeiDingXiang.csprojResolveAssemblyReference.cache
