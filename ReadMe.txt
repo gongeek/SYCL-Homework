@@ -1,1 +1,2 @@
-it is homework .
+homework
+摄影测量C#程序，特征点查询，内定向等图片处理
